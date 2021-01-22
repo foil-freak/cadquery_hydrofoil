@@ -19,4 +19,4 @@ Also included are:
 
 
 ### Conclusions
-Although the design process is quick and comparably easy my feeling suggests that there are better solutions in hinsight of the design process. Over the next weeks I will try packages/software/libraries like FreeCAD, Rhino3D+Grasshopper, CATIA, Fusion360 and others..
+Although the design process is quick and comparably easy my feeling suggests that there are better solutions in hinsight of the design process. One example that comes to my mind is FreeCAD.
