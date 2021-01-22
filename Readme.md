@@ -1,6 +1,9 @@
 ## Short Proof of Concept
 For using CadQuery as a tool to design hydrofoil wings.
 
+![Example](example.png)
+
+
 The code is separated over two files.
 
 * __readPic.py__ reads the silhouette of the wing from a png file (silhouette.png), interpolates the found data points and provides a function for querying the y-coordinate for the leading edge and the length of a wing segment for a given x-position.
